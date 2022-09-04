@@ -5,7 +5,7 @@ Project done during **Software Engineering studies** at **ALX Africa**. The proj
 * Shell Scripts are written in Bash
 * Python Scripts are written with Python
 * C files are compiled using `gcc`
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu
 
 ## Files
 | Filename | Description |
